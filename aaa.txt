@@ -1,6 +1,8 @@
 hello, world
 my name is ....
 
+你打名字是神码？
+
 ===================
 
 where are you?
